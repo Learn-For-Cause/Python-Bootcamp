@@ -22,17 +22,11 @@ Learn For Cause is an initiative that was started with the major aim to promote 
 
 ## Curriculum
 
-### Module00 - Basics of Python - Eleven Commandments
-**Let's get started with the Python language!** :snake:
-> Basic setup, variables, types, functions, ...
-
-### Module01 - 
-
 - Understand the basics of Data Structures and their implementation
 - Python Live Project with DS implementations
 - Strategy to Solve Contest questions of Google and Codechef
 
-Topics covered in the 7 Day Bootcamp
+### Topics covered in the 7 Day Bootcamp
 
 ♦️ Introduction to Python & Data Structures
 ♦️ Data Structures : Arrays, Lists, Dictionaries, Tuples
