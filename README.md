@@ -29,10 +29,15 @@ Learn For Cause is an initiative that was started with the major aim to promote 
 ### Topics covered in the 7 Day Bootcamp
 
 ♦️ Introduction to Python & Data Structures
+
 ♦️ Data Structures : Arrays, Lists, Dictionaries, Tuples
+
 ♦️ Advanced Data Structures: Stack, Queue, Linked Lists, Trees, Graphs and Hash Tables
+
 ♦️ Real time competitive programming with Python
+
 ♦️ Solution approach of Global Contests such as Codejam & Kickstart. 
+
 ♦️ Certificate on successful completion of Bootcamp.
 
 
