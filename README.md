@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Data Structures with Python</h1>
+Data Structures with Python 7-Day Bootcamp</h1>
 <h3 align="center">
   One week to learn Data Structures in Python :rocket:
 </h3>
