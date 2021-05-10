@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/pp.jpg" width="200" alt="Learn For Cause Logo" />
-</p>
 
 <h1 align="center">
 Data Structures with Python</h1>
