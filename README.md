@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pp.png" width="200" alt="Learn For Cause Logo" />
+  <img src="assets/pp.jpg" width="200" alt="Learn For Cause Logo" />
 </p>
 
 <h1 align="center">
